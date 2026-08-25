@@ -20,7 +20,7 @@ import requests
 
 # À adapter avant de régénérer le fichier SQL final :
 # format : https://cdn.jsdelivr.net/gh/{utilisateur}/{repo}@{branche}
-REPO_BASE_URL = "https://cdn.jsdelivr.net/gh/TON-PSEUDO/TON-REPO@main"
+REPO_BASE_URL = "https://cdn.jsdelivr.net/gh/lucephile/euro-coin-images@main"
 
 OUTPUT_DIR = "output"
 
